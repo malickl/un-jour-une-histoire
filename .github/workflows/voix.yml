@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "scripts/**"
+      - "generer_voix.py"
   workflow_dispatch:
 
 permissions:
