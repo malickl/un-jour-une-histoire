@@ -1,0 +1,878 @@
+[
+ {
+  "type": "WordBoundary",
+  "start": 0.092583,
+  "dur": 0.127333,
+  "text": "Ils"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.219916,
+  "dur": 0.11575,
+  "text": "ont"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.335666,
+  "dur": 0.27775,
+  "text": "vidé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.613416,
+  "dur": 0.127333,
+  "text": "une"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.74075,
+  "dur": 0.208333,
+  "text": "banque"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.949083,
+  "dur": 0.532416,
+  "text": "entière"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.013875,
+  "dur": 0.0462909,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.060166,
+  "dur": 0.300916,
+  "text": "passant"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.361125,
+  "dur": 0.127291,
+  "text": "par"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.488416,
+  "dur": 0.081,
+  "text": "les"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.569458,
+  "dur": 0.42825,
+  "text": "égouts"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.344916,
+  "dur": 0.474541,
+  "text": "Nice"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.120375,
+  "dur": 1.6550829,
+  "text": "juillet 1976"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.09075,
+  "dur": 0.19675,
+  "text": "Un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.2875,
+  "dur": 0.266208,
+  "text": "lundi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.553708,
+  "dur": 0.451375,
+  "text": "matin"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.42175,
+  "dur": 0.092583,
+  "text": "les"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.514333,
+  "dur": 0.439833,
+  "text": "employés"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.954166,
+  "dur": 0.081,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.035166,
+  "dur": 0.092583,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.127791,
+  "dur": 0.405083,
+  "text": "Société"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.532875,
+  "dur": 0.544,
+  "text": "Générale"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.088416,
+  "dur": 0.243041,
+  "text": "ouvrent"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.3315,
+  "dur": 0.092583,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.424083,
+  "dur": 0.208333,
+  "text": "salle"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.632416,
+  "dur": 0.092583,
+  "text": "des"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.725,
+  "dur": 0.50925,
+  "text": "coffres"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.578708,
+  "dur": 0.520833,
+  "text": "Choc"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.435166,
+  "dur": 0.104166,
+  "text": "des"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.539333,
+  "dur": 0.370375,
+  "text": "centaines"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.909708,
+  "dur": 0.092583,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.002333,
+  "dur": 0.381916,
+  "text": "coffres"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.38425,
+  "dur": 0.11575,
+  "text": "sont"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.5,
+  "dur": 0.613416,
+  "text": "éventrés"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.449083,
+  "dur": 0.081,
+  "text": "Et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.530083,
+  "dur": 0.19675,
+  "text": "sur"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.726833,
+  "dur": 0.069458,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.796291,
+  "dur": 0.3125,
+  "text": "mur"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.317125,
+  "dur": 0.081,
+  "text": "une"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.398166,
+  "dur": 0.451375,
+  "text": "phrase"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.11575,
+  "dur": 0.185166,
+  "text": "Sans"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.300916,
+  "dur": 0.439833,
+  "text": "armes"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.949083,
+  "dur": 0.162041,
+  "text": "ni"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.111125,
+  "dur": 0.277791,
+  "text": "haine"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.608791,
+  "dur": 0.104166,
+  "text": "ni"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.712958,
+  "dur": 0.601833,
+  "text": "violence"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.962958,
+  "dur": 0.254625,
+  "text": "Pendant"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.217583,
+  "dur": 0.081,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.298625,
+  "dur": 0.358791,
+  "text": "week-end"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.657416,
+  "dur": 0.081,
+  "text": "du"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.738416,
+  "dur": 0.7291659,
+  "text": "14 juillet"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.861125,
+  "dur": 0.127291,
+  "text": "une"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.988416,
+  "dur": 0.219916,
+  "text": "bande"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.208333,
+  "dur": 0.0462909,
+  "text": "a"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.254625,
+  "dur": 0.300916,
+  "text": "creusé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.555541,
+  "dur": 0.057875,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.613416,
+  "dur": 0.347208,
+  "text": "tunnel"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.960666,
+  "dur": 0.219875,
+  "text": "depuis"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 21.180541,
+  "dur": 0.081,
+  "text": "les"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 21.261583,
+  "dur": 0.370375,
+  "text": "égouts"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 21.956,
+  "dur": 0.266208,
+  "text": "jusqu'à"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.222208,
+  "dur": 0.092583,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.314833,
+  "dur": 0.19675,
+  "text": "salle"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.511583,
+  "dur": 0.486125,
+  "text": "blindée"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.3565,
+  "dur": 0.138875,
+  "text": "Ils"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.495375,
+  "dur": 0.138875,
+  "text": "ont"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.63425,
+  "dur": 0.19675,
+  "text": "même"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.831,
+  "dur": 0.277791,
+  "text": "mangé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 24.108791,
+  "dur": 0.173625,
+  "text": "sur"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 24.282416,
+  "dur": 0.567125,
+  "text": "place"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.208333,
+  "dur": 0.150458,
+  "text": "Le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.358791,
+  "dur": 0.42825,
+  "text": "butin"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.180541,
+  "dur": 0.092583,
+  "text": "des"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.273166,
+  "dur": 0.347208,
+  "text": "dizaines"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.620375,
+  "dur": 0.081,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.701375,
+  "dur": 0.254625,
+  "text": "millions"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.956,
+  "dur": 0.104166,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.060166,
+  "dur": 0.370375,
+  "text": "francs"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.789333,
+  "dur": 0.162041,
+  "text": "Le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.951375,
+  "dur": 0.243041,
+  "text": "casse"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.194458,
+  "dur": 0.115708,
+  "text": "du"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.310166,
+  "dur": 0.613416,
+  "text": "siècle"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.282416,
+  "dur": 0.162041,
+  "text": "Le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.444458,
+  "dur": 0.520833,
+  "text": "cerveau"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 30.2315,
+  "dur": 0.358791,
+  "text": "Albert"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 30.590291,
+  "dur": 0.682875,
+  "text": "Spaggiari"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 31.597208,
+  "dur": 0.081,
+  "text": "est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 31.67825,
+  "dur": 0.381916,
+  "text": "arrêté"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.060166,
+  "dur": 0.266208,
+  "text": "quelques"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.326375,
+  "dur": 0.104166,
+  "text": "mois"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.430541,
+  "dur": 0.127333,
+  "text": "plus"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.557875,
+  "dur": 0.486125,
+  "text": "tard"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.402791,
+  "dur": 0.127291,
+  "text": "Mais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.530083,
+  "dur": 0.104166,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.63425,
+  "dur": 1.3657489,
+  "text": "mars 1977"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 35.300916,
+  "dur": 0.162041,
+  "text": "lors"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 35.462958,
+  "dur": 0.138875,
+  "text": "d'une"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 35.601833,
+  "dur": 0.335666,
+  "text": "audition"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 35.9375,
+  "dur": 0.138875,
+  "text": "chez"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 36.076375,
+  "dur": 0.104166,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 36.180541,
+  "dur": 0.358791,
+  "text": "juge"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 36.863416,
+  "dur": 0.092583,
+  "text": "il"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 36.956,
+  "dur": 0.2315,
+  "text": "saute"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 37.1875,
+  "dur": 0.11575,
+  "text": "par"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 37.30325,
+  "dur": 0.081,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 37.38425,
+  "dur": 0.462958,
+  "text": "fenêtre"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 38.113416,
+  "dur": 0.324083,
+  "text": "atterrit"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 38.4375,
+  "dur": 0.127333,
+  "text": "sur"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 38.564833,
+  "dur": 0.081,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 38.645833,
+  "dur": 0.127333,
+  "text": "toit"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 38.773166,
+  "dur": 0.127291,
+  "text": "d'une"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 38.900458,
+  "dur": 0.50925,
+  "text": "voiture"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 39.629625,
+  "dur": 0.023166,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 39.652791,
+  "dur": 0.567125,
+  "text": "disparaît"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 40.578708,
+  "dur": 0.138875,
+  "text": "Il"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 40.717583,
+  "dur": 0.104166,
+  "text": "ne"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 40.82175,
+  "dur": 0.289333,
+  "text": "sera"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 41.111125,
+  "dur": 0.300916,
+  "text": "jamais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 41.412041,
+  "dur": 0.659708,
+  "text": "rattrapé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 42.430541,
+  "dur": 0.162041,
+  "text": "Il"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 42.592583,
+  "dur": 0.208333,
+  "text": "meurt"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 42.800916,
+  "dur": 0.370375,
+  "text": "libre"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 43.5185,
+  "dur": 0.0462909,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 43.564833,
+  "dur": 1.2384159,
+  "text": "1989"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 45.150458,
+  "dur": 0.092583,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 45.243041,
+  "dur": 0.439833,
+  "text": "connaissais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 45.682875,
+  "dur": 0.19675,
+  "text": "cette"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 45.879625,
+  "dur": 0.625,
+  "text": "histoire"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 46.851833,
+  "dur": 0.3125,
+  "text": "Dis-le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 47.164333,
+  "dur": 0.185166,
+  "text": "moi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 47.349541,
+  "dur": 0.081,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 47.430541,
+  "dur": 0.74075,
+  "text": "commentaire"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 48.486583,
+  "dur": 0.138875,
+  "text": "Et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 48.625458,
+  "dur": 0.138875,
+  "text": "si"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 48.764333,
+  "dur": 0.127333,
+  "text": "tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 48.891666,
+  "dur": 0.069458,
+  "text": "as"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 48.961125,
+  "dur": 0.42825,
+  "text": "aimé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 49.690291,
+  "dur": 0.127291,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 49.817583,
+  "dur": 0.335666,
+  "text": "like"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 50.199541,
+  "dur": 0.069458,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 50.269,
+  "dur": 0.0462909,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 50.315291,
+  "dur": 0.451375,
+  "text": "abonnement"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 50.766666,
+  "dur": 0.11575,
+  "text": "pour"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 50.882416,
+  "dur": 0.057875,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 50.940291,
+  "dur": 0.3125,
+  "text": "prochaine"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 51.252791,
+  "dur": 0.567125,
+  "text": "histoire"
+ }
+]
