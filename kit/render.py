@@ -76,8 +76,11 @@ def draw_subs(C, T):
 
 
 def draw_transition(C, T):
+    sweeps = getattr(sc, "SWEEPS", [])  # balayages : seulement ceux listés (rares)
+    if not sweeps:
+        return False
     a, c = sc.sweep_sprites()
-    for bnd in sc.BOUNDS:
+    for bnd in sweeps:
         d = 0.60
         if bnd - d / 2 <= T <= bnd + d / 2 + 0.06:
             for spr, lag in ((a, 0.0), (c, 0.06)):

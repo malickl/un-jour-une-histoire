@@ -17,3 +17,7 @@ Public : Malick, TikTok. Style : fond bleu marine, papier crème/orange, sous-ti
 8. Livrer DANS LE CHAT : SendUserFile (status proactive, display render) + message avec description TikTok (1 phrase) + ≤4 hashtags + faits incertains. Nom : `titre-court_JJMMAAAA.mp4`.
 Ne jamais poser de question : choisir et signaler.
 Commits : finir par `Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>`.
+
+## Transitions (retour de Malick : trop de balayages)
+- Par défaut AUCUN balayage : les scènes s'enchaînent par simple changement de dessins (les pièces de la nouvelle scène « popent » d'elles-mêmes).
+- Balayage de papier uniquement sur 1 à 3 vrais changements de lieu/moment par vidéo : lister leurs instants dans `SWEEPS = [...]` du module de scènes (sinon rien). Pas de son de transition.
