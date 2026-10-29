@@ -3,7 +3,7 @@ import json
 import re
 import unicodedata
 
-SPOKEN_SYL = {"1976": 8, "1977": 8, "1989": 8, "14": 2}  # années/nombres lus en toutes lettres
+SPOKEN_SYL = {"1518": 6, "1976": 8, "1977": 8, "1989": 8, "14": 2}  # années/nombres lus en toutes lettres
 
 
 def syl(w):
