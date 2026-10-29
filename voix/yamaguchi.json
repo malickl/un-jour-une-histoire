@@ -1,0 +1,722 @@
+[
+ {
+  "type": "WordBoundary",
+  "start": 0.092583,
+  "dur": 0.127333,
+  "text": "Il"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.219916,
+  "dur": 0.0462909,
+  "text": "a"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.266208,
+  "dur": 0.50925,
+  "text": "survécu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.775458,
+  "dur": 0.104166,
+  "text": "à"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.879625,
+  "dur": 0.138875,
+  "text": "deux"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.0185,
+  "dur": 0.185166,
+  "text": "bombes"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.203708,
+  "dur": 0.555541,
+  "text": "atomiques"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.152791,
+  "dur": 0.034708,
+  "text": "à"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.1875,
+  "dur": 0.19675,
+  "text": "trois"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.38425,
+  "dur": 0.162041,
+  "text": "jours"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.546291,
+  "dur": 0.729166,
+  "text": "d'intervalle"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.63425,
+  "dur": 0.648166,
+  "text": "Hiroshima"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.675916,
+  "dur": 1.666666,
+  "text": "6 août 1945"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.657875,
+  "dur": 0.497666,
+  "text": "Tsutomu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.155541,
+  "dur": 0.752333,
+  "text": "Yamaguchi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.1625,
+  "dur": 0.648166,
+  "text": "ingénieur"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.157875,
+  "dur": 0.023125,
+  "text": "est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.181,
+  "dur": 0.127333,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.308333,
+  "dur": 0.289333,
+  "text": "voyage"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.597666,
+  "dur": 0.613416,
+  "text": "d'affaires"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.567125,
+  "dur": 0.081,
+  "text": "À"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.648166,
+  "dur": 0.19675,
+  "text": "trois"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.844916,
+  "dur": 0.497666,
+  "text": "kilomètres"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.342583,
+  "dur": 0.104166,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.44675,
+  "dur": 0.300916,
+  "text": "lui"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.141208,
+  "dur": 0.081,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.222208,
+  "dur": 0.347208,
+  "text": "première"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.569458,
+  "dur": 0.208333,
+  "text": "bombe"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.777791,
+  "dur": 0.370375,
+  "text": "atomique"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.148166,
+  "dur": 0.671291,
+  "text": "explose"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.17825,
+  "dur": 0.127291,
+  "text": "Il"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.305541,
+  "dur": 0.0462909,
+  "text": "est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.351833,
+  "dur": 0.474541,
+  "text": "brûlé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.104166,
+  "dur": 0.347208,
+  "text": "presque"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.451375,
+  "dur": 0.451375,
+  "text": "sourd"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.169,
+  "dur": 0.092583,
+  "text": "mais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.261583,
+  "dur": 0.439833,
+  "text": "vivant"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.060166,
+  "dur": 0.138875,
+  "text": "Il"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.199083,
+  "dur": 0.219916,
+  "text": "passe"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.419,
+  "dur": 0.104166,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.523166,
+  "dur": 0.19675,
+  "text": "nuit"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.719916,
+  "dur": 0.104166,
+  "text": "dans"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.824083,
+  "dur": 0.127291,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.951375,
+  "dur": 0.462958,
+  "text": "abri"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.715291,
+  "dur": 0.127291,
+  "text": "puis"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.842583,
+  "dur": 0.162041,
+  "text": "prend"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.004625,
+  "dur": 0.092583,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.097208,
+  "dur": 0.289333,
+  "text": "train"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.386583,
+  "dur": 0.150458,
+  "text": "pour"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.537041,
+  "dur": 0.266208,
+  "text": "rentrer"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.80325,
+  "dur": 0.127291,
+  "text": "chez"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.930541,
+  "dur": 0.335666,
+  "text": "lui"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.582416,
+  "dur": 0.173583,
+  "text": "À"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.756,
+  "dur": 0.8565,
+  "text": "Nagasaki"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 21.967583,
+  "dur": 0.138875,
+  "text": "Le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.1065,
+  "dur": 0.532374,
+  "text": "9 août"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.986125,
+  "dur": 0.069416,
+  "text": "il"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.055541,
+  "dur": 0.370375,
+  "text": "raconte"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.425916,
+  "dur": 0.081,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.506958,
+  "dur": 0.555541,
+  "text": "catastrophe"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 24.0625,
+  "dur": 0.0462909,
+  "text": "à"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 24.108791,
+  "dur": 0.138875,
+  "text": "son"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 24.247666,
+  "dur": 0.439833,
+  "text": "patron"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 24.976833,
+  "dur": 0.127333,
+  "text": "qui"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.104166,
+  "dur": 0.358791,
+  "text": "refuse"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.462958,
+  "dur": 0.081,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.544,
+  "dur": 0.081,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.625,
+  "dur": 0.555541,
+  "text": "croire"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.495833,
+  "dur": 0.613416,
+  "text": "Soudain"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.4565,
+  "dur": 0.081,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.5375,
+  "dur": 0.358791,
+  "text": "éclair"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.896291,
+  "dur": 0.335666,
+  "text": "blanc"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.544458,
+  "dur": 0.254625,
+  "text": "Une"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.799083,
+  "dur": 0.347208,
+  "text": "deuxième"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.146291,
+  "dur": 0.289333,
+  "text": "bombe"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.435666,
+  "dur": 0.335625,
+  "text": "tombe"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.771291,
+  "dur": 0.173625,
+  "text": "sur"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.944916,
+  "dur": 0.74075,
+  "text": "Nagasaki"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 31.030083,
+  "dur": 0.150458,
+  "text": "Il"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 31.180541,
+  "dur": 0.347208,
+  "text": "survit"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 31.527791,
+  "dur": 0.590291,
+  "text": "encore"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.476833,
+  "dur": 0.162041,
+  "text": "Il"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.638875,
+  "dur": 0.416666,
+  "text": "vivra"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.055541,
+  "dur": 0.358791,
+  "text": "jusqu'à"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.414333,
+  "dur": 0.8565,
+  "text": "93 ans"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 34.618041,
+  "dur": 0.104166,
+  "text": "Et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 34.722208,
+  "dur": 0.069458,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 34.791666,
+  "dur": 0.648125,
+  "text": "2009"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 35.82175,
+  "dur": 0.092583,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 35.914333,
+  "dur": 0.300916,
+  "text": "Japon"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 36.215291,
+  "dur": 0.092583,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 36.307875,
+  "dur": 0.370375,
+  "text": "reconnaît"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 36.689833,
+  "dur": 0.671291,
+  "text": "officiellement"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 37.361125,
+  "dur": 0.185166,
+  "text": "comme"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 37.546291,
+  "dur": 0.486125,
+  "text": "survivant"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 38.032416,
+  "dur": 0.104166,
+  "text": "des"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 38.136583,
+  "dur": 0.127291,
+  "text": "deux"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 38.263875,
+  "dur": 0.42825,
+  "text": "bombes"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 39.039333,
+  "dur": 0.092583,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 39.131958,
+  "dur": 0.439791,
+  "text": "connaissais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 39.57175,
+  "dur": 0.19675,
+  "text": "cette"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 39.7685,
+  "dur": 0.625,
+  "text": "histoire"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 40.74075,
+  "dur": 0.3125,
+  "text": "Dis-le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 41.05325,
+  "dur": 0.185166,
+  "text": "moi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 41.238416,
+  "dur": 0.081,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 41.319458,
+  "dur": 0.74075,
+  "text": "commentaire"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 42.375458,
+  "dur": 0.138875,
+  "text": "Et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 42.514333,
+  "dur": 0.138875,
+  "text": "si"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 42.65325,
+  "dur": 0.127291,
+  "text": "tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 42.780541,
+  "dur": 0.069458,
+  "text": "as"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 42.85,
+  "dur": 0.42825,
+  "text": "aimé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 43.579166,
+  "dur": 0.127333,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 43.7065,
+  "dur": 0.335666,
+  "text": "like"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 44.088416,
+  "dur": 0.069458,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 44.157875,
+  "dur": 0.0462909,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 44.204166,
+  "dur": 0.451375,
+  "text": "abonnement"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 44.655541,
+  "dur": 0.11575,
+  "text": "pour"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 44.771291,
+  "dur": 0.057875,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 44.829166,
+  "dur": 0.3125,
+  "text": "prochaine"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 45.141666,
+  "dur": 0.567125,
+  "text": "histoire"
+ }
+]
