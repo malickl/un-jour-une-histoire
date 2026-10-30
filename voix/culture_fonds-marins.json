@@ -1,0 +1,638 @@
+[
+ {
+  "type": "WordBoundary",
+  "start": 0.049083,
+  "dur": 1.2152489,
+  "text": "27,3 "
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.264333,
+  "dur": 0.19675,
+  "text": "pour"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.461125,
+  "dur": 0.3125,
+  "text": "cent."
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.118041,
+  "dur": 0.173625,
+  "text": "C'est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.291666,
+  "dur": 0.11575,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.407416,
+  "dur": 0.208333,
+  "text": "part"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.61575,
+  "dur": 0.11575,
+  "text": "des"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.7315,
+  "dur": 0.185166,
+  "text": "fonds"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.916666,
+  "dur": 0.277791,
+  "text": "marins"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.194458,
+  "dur": 0.810166,
+  "text": "cartographiée"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.016208,
+  "dur": 0.231458,
+  "text": "avec"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.247666,
+  "dur": 0.104166,
+  "text": "une"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.351833,
+  "dur": 0.451375,
+  "text": "précision"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.80325,
+  "dur": 0.613416,
+  "text": "moderne"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.731958,
+  "dur": 0.219875,
+  "text": "Le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.951833,
+  "dur": 0.567125,
+  "text": "reste"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.832416,
+  "dur": 0.185166,
+  "text": "Un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.017583,
+  "dur": 0.729166,
+  "text": "mystère"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.090291,
+  "dur": 0.104166,
+  "text": "En"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.194458,
+  "dur": 0.7407079,
+  "text": "2017"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.25925,
+  "dur": 0.023166,
+  "text": "on"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.282416,
+  "dur": 0.104166,
+  "text": "n'en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.386583,
+  "dur": 0.405083,
+  "text": "connaissait"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.791666,
+  "dur": 0.138875,
+  "text": "que"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.930541,
+  "dur": 0.381958,
+  "text": "6 pour"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.3125,
+  "dur": 0.289333,
+  "text": "cent."
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.949083,
+  "dur": 0.567125,
+  "text": "Aujourd'hui"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.817125,
+  "dur": 0.162041,
+  "text": "plus"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.979166,
+  "dur": 0.104166,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.083333,
+  "dur": 0.6828329,
+  "text": "70 pour"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.766208,
+  "dur": 0.173625,
+  "text": "cent"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.939833,
+  "dur": 0.115708,
+  "text": "des"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.055541,
+  "dur": 0.173625,
+  "text": "fonds"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.229166,
+  "dur": 0.254625,
+  "text": "restent"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.483791,
+  "dur": 0.289333,
+  "text": "encore"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.773166,
+  "dur": 0.034708,
+  "text": "à"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.807875,
+  "dur": 0.717583,
+  "text": "découvrir"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.841666,
+  "dur": 0.162041,
+  "text": "Et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.003708,
+  "dur": 0.462958,
+  "text": "là-dessous"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.466666,
+  "dur": 0.127333,
+  "text": "se"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.594,
+  "dur": 0.243041,
+  "text": "cache"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.837041,
+  "dur": 0.104166,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.941208,
+  "dur": 0.138875,
+  "text": "plus"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.080083,
+  "dur": 0.185166,
+  "text": "longue"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.265291,
+  "dur": 0.243041,
+  "text": "chaîne"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.508333,
+  "dur": 0.081,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.589333,
+  "dur": 0.358791,
+  "text": "montagnes"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.948166,
+  "dur": 0.069416,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.017583,
+  "dur": 0.104166,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.12175,
+  "dur": 0.3935,
+  "text": "Terre"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.8625,
+  "dur": 0.081,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.9435,
+  "dur": 0.405083,
+  "text": "dorsale"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.348625,
+  "dur": 0.729166,
+  "text": "océanique"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.432875,
+  "dur": 0.127291,
+  "text": "Elle"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.560166,
+  "dur": 0.335666,
+  "text": "s'étend"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.895833,
+  "dur": 0.219916,
+  "text": "sur"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.11575,
+  "dur": 0.439791,
+  "text": "environ"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.555541,
+  "dur": 1.469916,
+  "text": "65 000 kilomètres"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.372666,
+  "dur": 0.277791,
+  "text": "Soit"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.650458,
+  "dur": 0.11575,
+  "text": "une"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.766208,
+  "dur": 0.3935,
+  "text": "fois"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.252333,
+  "dur": 0.081,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.333333,
+  "dur": 0.254625,
+  "text": "demie"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.587958,
+  "dur": 0.104166,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.692125,
+  "dur": 0.173625,
+  "text": "tour"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.86575,
+  "dur": 0.069416,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.935166,
+  "dur": 0.081,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 24.016208,
+  "dur": 0.601833,
+  "text": "planète"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 24.933333,
+  "dur": 0.451375,
+  "text": "Environ"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.384708,
+  "dur": 0.659749,
+  "text": "90 pour"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.044458,
+  "dur": 0.127291,
+  "text": "cent"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.17175,
+  "dur": 0.092583,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.264333,
+  "dur": 0.185166,
+  "text": "cette"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.449541,
+  "dur": 0.254625,
+  "text": "chaîne"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.704166,
+  "dur": 0.0462909,
+  "text": "est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.750458,
+  "dur": 0.162041,
+  "text": "sous"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.9125,
+  "dur": 0.254625,
+  "text": "l'eau"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.468041,
+  "dur": 0.243041,
+  "text": "avec"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.711125,
+  "dur": 0.069416,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.780541,
+  "dur": 0.370375,
+  "text": "sommet"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.150916,
+  "dur": 0.127333,
+  "text": "à"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.27825,
+  "dur": 0.833333,
+  "text": "2 500 mètres"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.111583,
+  "dur": 0.081,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.192583,
+  "dur": 0.497666,
+  "text": "profondeur"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.690291,
+  "dur": 0.0462909,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.736583,
+  "dur": 0.567125,
+  "text": "moyenne"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 30.616208,
+  "dur": 0.185166,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 30.801375,
+  "dur": 0.636583,
+  "text": "connaissais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 31.782416,
+  "dur": 0.3125,
+  "text": "Dis-le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.094916,
+  "dur": 0.185166,
+  "text": "moi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.280083,
+  "dur": 0.081,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.361125,
+  "dur": 0.74075,
+  "text": "commentaire"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.414333,
+  "dur": 0.104166,
+  "text": "Et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.5185,
+  "dur": 0.138875,
+  "text": "si"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.657416,
+  "dur": 0.127291,
+  "text": "tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.784708,
+  "dur": 0.069458,
+  "text": "as"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.854166,
+  "dur": 0.42825,
+  "text": "aimé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 34.583333,
+  "dur": 0.138875,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 34.722208,
+  "dur": 0.335666,
+  "text": "like"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 35.069458,
+  "dur": 0.069416,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 35.138875,
+  "dur": 0.0462909,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 35.185166,
+  "dur": 0.439833,
+  "text": "abonnement"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 35.625,
+  "dur": 0.11575,
+  "text": "pour"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 35.74075,
+  "dur": 0.057875,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 35.798625,
+  "dur": 0.324041,
+  "text": "prochaine"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 36.122666,
+  "dur": 0.42825,
+  "text": "info"
+ }
+]
