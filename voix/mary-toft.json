@@ -1,0 +1,908 @@
+[
+ {
+  "type": "WordBoundary",
+  "start": 0.049083,
+  "dur": 0.173583,
+  "text": "En"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.222666,
+  "dur": 0.3125,
+  "text": "dix-sept"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.535166,
+  "dur": 0.11575,
+  "text": "cent"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.650916,
+  "dur": 0.613416,
+  "text": "vingt-six"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.657875,
+  "dur": 0.081,
+  "text": "une"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.738875,
+  "dur": 0.416666,
+  "text": "Anglaise"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.155541,
+  "dur": 0.069458,
+  "text": "a"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.225,
+  "dur": 0.347208,
+  "text": "accouché"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.572208,
+  "dur": 0.081,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.65325,
+  "dur": 0.439833,
+  "text": "lapins"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.449083,
+  "dur": 0.069416,
+  "text": "Et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.5185,
+  "dur": 0.11575,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.63425,
+  "dur": 0.185166,
+  "text": "roi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.819458,
+  "dur": 0.358791,
+  "text": "lui-même"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.17825,
+  "dur": 0.081,
+  "text": "y"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.25925,
+  "dur": 0.0462909,
+  "text": "a"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.305541,
+  "dur": 0.3935,
+  "text": "cru"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.015291,
+  "dur": 0.752333,
+  "text": "Godalming"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.045375,
+  "dur": 0.0462909,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.091666,
+  "dur": 0.787041,
+  "text": "Angleterre"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.233791,
+  "dur": 0.277791,
+  "text": "Mary"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.511583,
+  "dur": 0.42825,
+  "text": "Toft"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.159708,
+  "dur": 0.092583,
+  "text": "une"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.252333,
+  "dur": 0.416666,
+  "text": "paysanne"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.669,
+  "dur": 0.081,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.75,
+  "dur": 0.42825,
+  "text": "vingt-cinq"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.17825,
+  "dur": 0.19675,
+  "text": "ans"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.675916,
+  "dur": 0.347208,
+  "text": "affirme"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.023166,
+  "dur": 0.219875,
+  "text": "avoir"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.243041,
+  "dur": 0.138875,
+  "text": "mis"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.381958,
+  "dur": 0.057875,
+  "text": "au"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.439833,
+  "dur": 0.300916,
+  "text": "monde"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.74075,
+  "dur": 0.092583,
+  "text": "des"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.833333,
+  "dur": 0.300916,
+  "text": "morceaux"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.13425,
+  "dur": 0.081,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.215291,
+  "dur": 0.42825,
+  "text": "lapin"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.958791,
+  "dur": 0.173625,
+  "text": "Un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.132416,
+  "dur": 0.50925,
+  "text": "chirurgien"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.641666,
+  "dur": 0.092583,
+  "text": "du"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.73425,
+  "dur": 0.462958,
+  "text": "village"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.197208,
+  "dur": 0.162041,
+  "text": "vient"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.35925,
+  "dur": 0.578708,
+  "text": "l'accoucher"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.29675,
+  "dur": 0.104166,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.400916,
+  "dur": 0.2315,
+  "text": "jure"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.632416,
+  "dur": 0.219916,
+  "text": "avoir"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.852333,
+  "dur": 0.324041,
+  "text": "sorti"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.176375,
+  "dur": 0.3125,
+  "text": "plusieurs"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.488875,
+  "dur": 0.347208,
+  "text": "animaux"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.836125,
+  "dur": 0.092583,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.928708,
+  "dur": 0.127291,
+  "text": "son"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.056,
+  "dur": 0.50925,
+  "text": "ventre"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.921291,
+  "dur": 0.138875,
+  "text": "La"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.060166,
+  "dur": 0.381958,
+  "text": "nouvelle"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.442125,
+  "dur": 0.150458,
+  "text": "fait"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.592583,
+  "dur": 0.104166,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.69675,
+  "dur": 0.173625,
+  "text": "tour"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.870375,
+  "dur": 0.092583,
+  "text": "du"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.962958,
+  "dur": 0.42825,
+  "text": "pays"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.75,
+  "dur": 0.150458,
+  "text": "Le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.900458,
+  "dur": 0.150458,
+  "text": "roi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.050916,
+  "dur": 0.324083,
+  "text": "George"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.375,
+  "dur": 0.50925,
+  "text": "Premier"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.976833,
+  "dur": 0.2315,
+  "text": "envoie"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.208333,
+  "dur": 0.138875,
+  "text": "son"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.347208,
+  "dur": 0.3125,
+  "text": "propre"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.659708,
+  "dur": 0.462958,
+  "text": "chirurgien"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 21.122666,
+  "dur": 0.162041,
+  "text": "sur"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 21.284708,
+  "dur": 0.555541,
+  "text": "place"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.199083,
+  "dur": 0.127291,
+  "text": "Il"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.326375,
+  "dur": 0.3935,
+  "text": "examine"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.719916,
+  "dur": 0.416666,
+  "text": "Mary"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.483791,
+  "dur": 0.069458,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.55325,
+  "dur": 0.104166,
+  "text": "il"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.657416,
+  "dur": 0.034708,
+  "text": "est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.692125,
+  "dur": 0.648166,
+  "text": "convaincu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 24.699083,
+  "dur": 0.358791,
+  "text": "Mary"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.057875,
+  "dur": 0.057875,
+  "text": "est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.11575,
+  "dur": 0.324083,
+  "text": "emmenée"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.439833,
+  "dur": 0.057833,
+  "text": "à"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.497666,
+  "dur": 0.405083,
+  "text": "Londres"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.215291,
+  "dur": 0.127291,
+  "text": "sous"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.342583,
+  "dur": 0.104166,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.44675,
+  "dur": 0.520833,
+  "text": "surveillance"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.967583,
+  "dur": 0.081,
+  "text": "des"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.048625,
+  "dur": 0.497666,
+  "text": "médecins"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.905083,
+  "dur": 0.162041,
+  "text": "Mais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.067125,
+  "dur": 0.127333,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.194458,
+  "dur": 0.451375,
+  "text": "porteur"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.645833,
+  "dur": 0.0462909,
+  "text": "est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.692125,
+  "dur": 0.555541,
+  "text": "surpris"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.328708,
+  "dur": 0.092583,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.421291,
+  "dur": 0.19675,
+  "text": "train"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.618041,
+  "dur": 0.081,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.699083,
+  "dur": 0.11575,
+  "text": "lui"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.814833,
+  "dur": 0.3935,
+  "text": "apporter"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 30.208333,
+  "dur": 0.057875,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 30.266208,
+  "dur": 0.289333,
+  "text": "lapin"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 30.555541,
+  "dur": 0.057875,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 30.613416,
+  "dur": 0.659708,
+  "text": "cachette"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 31.620375,
+  "dur": 0.289333,
+  "text": "Mary"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 31.909708,
+  "dur": 0.243041,
+  "text": "finit"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.152791,
+  "dur": 0.162041,
+  "text": "par"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.314833,
+  "dur": 0.405083,
+  "text": "avouer"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.032416,
+  "dur": 0.11575,
+  "text": "elle"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.148166,
+  "dur": 0.127291,
+  "text": "se"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.275458,
+  "dur": 0.347208,
+  "text": "glissait"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.622666,
+  "dur": 0.3935,
+  "text": "elle-même"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 34.016208,
+  "dur": 0.081,
+  "text": "des"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 34.097208,
+  "dur": 0.300916,
+  "text": "morceaux"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 34.398166,
+  "dur": 0.081,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 34.479166,
+  "dur": 0.277791,
+  "text": "lapin"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 34.756958,
+  "dur": 0.104166,
+  "text": "dans"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 34.861125,
+  "dur": 0.081,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 34.942125,
+  "dur": 0.42825,
+  "text": "corps"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 35.729166,
+  "dur": 0.127333,
+  "text": "Elle"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 35.8565,
+  "dur": 0.104166,
+  "text": "va"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 35.960666,
+  "dur": 0.069416,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 36.030083,
+  "dur": 0.462958,
+  "text": "prison"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 36.828708,
+  "dur": 0.057875,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 36.886583,
+  "dur": 0.104166,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 36.99075,
+  "dur": 0.474541,
+  "text": "chirurgien"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 37.465291,
+  "dur": 0.104166,
+  "text": "du"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 37.569458,
+  "dur": 0.289333,
+  "text": "roi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 37.870375,
+  "dur": 0.254625,
+  "text": "devient"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 38.125,
+  "dur": 0.081,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 38.206,
+  "dur": 0.277791,
+  "text": "risée"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 38.483791,
+  "dur": 0.11575,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 38.599541,
+  "dur": 0.185166,
+  "text": "toute"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 38.784708,
+  "dur": 0.706,
+  "text": "l'Angleterre"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 39.837958,
+  "dur": 0.092583,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 39.930541,
+  "dur": 0.439833,
+  "text": "connaissais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 40.370375,
+  "dur": 0.19675,
+  "text": "cette"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 40.567125,
+  "dur": 0.625,
+  "text": "histoire"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 41.539333,
+  "dur": 0.3125,
+  "text": "Dis-le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 41.851833,
+  "dur": 0.185166,
+  "text": "moi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 42.037041,
+  "dur": 0.081,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 42.118041,
+  "dur": 0.74075,
+  "text": "commentaire"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 43.174083,
+  "dur": 0.138875,
+  "text": "Et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 43.312958,
+  "dur": 0.138875,
+  "text": "si"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 43.451833,
+  "dur": 0.127333,
+  "text": "tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 43.579166,
+  "dur": 0.069458,
+  "text": "as"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 43.648625,
+  "dur": 0.42825,
+  "text": "aimé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 44.377791,
+  "dur": 0.127291,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 44.505083,
+  "dur": 0.335666,
+  "text": "like"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 44.887041,
+  "dur": 0.069458,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 44.9565,
+  "dur": 0.0462909,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 45.002791,
+  "dur": 0.451375,
+  "text": "abonnement"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 45.454166,
+  "dur": 0.11575,
+  "text": "pour"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 45.569916,
+  "dur": 0.057875,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 45.627791,
+  "dur": 0.3125,
+  "text": "prochaine"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 45.940291,
+  "dur": 0.567125,
+  "text": "histoire"
+ }
+]
