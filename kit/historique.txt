@@ -6,3 +6,4 @@ CULTURE: (concept ajouté, thème à chaque exécution)
 Guerre des émeus, Australie 1932
 CULTURE: Les fonds marins (cartographie, dorsale océanique)
 Mary Toft, la femme qui accouchait de lapins 1726
+CULTURE: Le corps humain (neurones, os, globules rouges, cœur)
