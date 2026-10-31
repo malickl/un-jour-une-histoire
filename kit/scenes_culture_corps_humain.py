@@ -55,18 +55,18 @@ def c2(C, T, t):
     pop(C, F.pie_sprite(0.02, 610), 270, 760, T, 5.1, s=0.62)
     pop(C, F.pie_sprite(0.20, 611), 810, 760, T, 7.4, s=0.62)
     slam(C, num("2 %", 200), 270, 1020, T, 5.24)
-    pop(C, B("DU POIDS", 56, "mustard", "ink", seed=4), 270, 1150, T, 5.6, rot=-2)
+    pop(C, B("DU POIDS", 56, "mustard", "ink", seed=4), 270, 1180, T, 5.6, rot=-2)
     if T >= 7.4:
         slam(C, num("20 %", 200), 810, 1020, T, 7.49)
-        pop(C, B("D'ÉNERGIE", 56, "mustard", "ink", seed=5), 810, 1150, T, 8.0, rot=2)
+        pop(C, B("D'ÉNERGIE", 56, "mustard", "ink", seed=5), 810, 1180, T, 8.0, rot=2)
 
 
 def c3(C, T, t):
-    pop(C, B("À LA NAISSANCE", 80, "cream", "ink", seed=6), 540, 310, T, 9.2, rot=-2)
     if T < 12.0:
-        for i, (x, y, r) in enumerate([(330, 600, -12), (700, 700, 10), (430, 850, 4), (760, 950, -8), (320, 1090, 14)]):
+        pop(C, B("À LA NAISSANCE", 80, "cream", "ink", seed=6), 540, 310, T, 9.2, rot=-2)
+        for i, (x, y, r) in enumerate([(330, 720, -12), (700, 800, 10), (430, 920, 4), (760, 1020, -8), (320, 1130, 14)]):
             pop(C, bone_sprite(610 + i), x, y, T, 10.0 + 0.1 * i, s=0.7, rot=r)
-        slam(C, num("300 OS", 200), 540, 440, T, 10.83)
+        slam(C, num("300 OS", 200), 540, 520, T, 10.83)
     else:
         pop(C, B("ADULTE", 90, "mustard", "ink", seed=7), 540, 330, T, 12.05, rot=2)
         pop(C, bone_sprite(), 540, 820, T, 12.5, s=1.3, rot=-4)
@@ -79,7 +79,7 @@ def c4(C, T, t):
     pop(C, B("CHAQUE SECONDE", 90, "cream", "ink", seed=9), 540, 310, T, 16.2, rot=-2)
     for i in range(9):
         x = 200 + (i % 3) * 340 + (30 if (i // 3) % 2 else 0)
-        y = 620 + (i // 3) * 190
+        y = 700 + (i // 3) * 170
         pop(C, cell_sprite(620 + i), x, y, T, 17.6 + 0.08 * i, s=0.75, rot=i * 17 % 40 - 20)
     slam(C, num("2 MILLIONS", 190), 540, 480, T, 18.65)
     pop(C, B("DE GLOBULES ROUGES", 62, "mustard", "ink", seed=10), 540, 1230, T, 19.2, rot=2)
