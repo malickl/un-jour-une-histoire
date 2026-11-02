@@ -1,0 +1,518 @@
+[
+ {
+  "type": "WordBoundary",
+  "start": 0.092583,
+  "dur": 0.937499,
+  "text": "1 200 battements"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.030083,
+  "dur": 0.162041,
+  "text": "par"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.192125,
+  "dur": 0.578708,
+  "text": "minute"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.118041,
+  "dur": 0.173625,
+  "text": "C'est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.291666,
+  "dur": 0.104166,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.395833,
+  "dur": 0.300916,
+  "text": "rythme"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.69675,
+  "dur": 0.11575,
+  "text": "du"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.8125,
+  "dur": 0.208333,
+  "text": "cœur"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.020833,
+  "dur": 0.127333,
+  "text": "d'un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.148166,
+  "dur": 0.451375,
+  "text": "colibri"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.599541,
+  "dur": 0.069458,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.669,
+  "dur": 0.173583,
+  "text": "plein"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.842583,
+  "dur": 0.324083,
+  "text": "vol"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.560166,
+  "dur": 0.185166,
+  "text": "alors"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.745375,
+  "dur": 0.104166,
+  "text": "que"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.849541,
+  "dur": 0.092583,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.942125,
+  "dur": 0.243041,
+  "text": "tien"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.185166,
+  "dur": 0.11575,
+  "text": "bat"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.300916,
+  "dur": 0.358791,
+  "text": "environ"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.659708,
+  "dur": 0.821791,
+  "text": "70 fois"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.840291,
+  "dur": 0.057875,
+  "text": "À"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.898166,
+  "dur": 0.555541,
+  "text": "l'opposé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.835666,
+  "dur": 0.092583,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.92825,
+  "dur": 0.208333,
+  "text": "cœur"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.136583,
+  "dur": 0.150458,
+  "text": "d'une"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.287041,
+  "dur": 0.289333,
+  "text": "baleine"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.576375,
+  "dur": 0.138875,
+  "text": "bleue"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.715291,
+  "dur": 0.3935,
+  "text": "pèse"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.212958,
+  "dur": 0.358791,
+  "text": "environ"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.57175,
+  "dur": 0.97225,
+  "text": "180 kilos"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.891208,
+  "dur": 0.127291,
+  "text": "Un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.0185,
+  "dur": 0.19675,
+  "text": "seul"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.215291,
+  "dur": 0.462958,
+  "text": "cœur"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.99075,
+  "dur": 0.138875,
+  "text": "plus"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.129625,
+  "dur": 0.243041,
+  "text": "lourd"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.372666,
+  "dur": 0.127333,
+  "text": "que"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.5,
+  "dur": 0.11575,
+  "text": "deux"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.61575,
+  "dur": 0.648166,
+  "text": "adultes"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.622666,
+  "dur": 0.150458,
+  "text": "Une"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.773166,
+  "dur": 0.405083,
+  "text": "pieuvre"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.409708,
+  "dur": 0.277791,
+  "text": "elle"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.930541,
+  "dur": 0.289333,
+  "text": "possède"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.219916,
+  "dur": 0.578667,
+  "text": "3 cœurs"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.122666,
+  "dur": 0.034708,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.157416,
+  "dur": 0.150458,
+  "text": "son"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.307875,
+  "dur": 0.173625,
+  "text": "sang"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.4815,
+  "dur": 0.069416,
+  "text": "est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.550916,
+  "dur": 0.3125,
+  "text": "bleu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.222208,
+  "dur": 0.092583,
+  "text": "Et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.314833,
+  "dur": 0.115708,
+  "text": "une"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.430541,
+  "dur": 0.544,
+  "text": "girafe"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.986125,
+  "dur": 0.138875,
+  "text": "n'a"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.125,
+  "dur": 0.11575,
+  "text": "que"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.24075,
+  "dur": 0.6481239,
+  "text": "7 vertèbres"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.888875,
+  "dur": 0.104166,
+  "text": "dans"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.993041,
+  "dur": 0.092583,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.085666,
+  "dur": 0.335666,
+  "text": "cou"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.780083,
+  "dur": 0.532416,
+  "text": "Exactement"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.3125,
+  "dur": 0.185166,
+  "text": "comme"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.497666,
+  "dur": 0.289333,
+  "text": "toi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 21.145833,
+  "dur": 0.069458,
+  "text": "mais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 21.215291,
+  "dur": 0.370375,
+  "text": "chacune"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 21.585666,
+  "dur": 0.347208,
+  "text": "mesure"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 21.932875,
+  "dur": 0.173625,
+  "text": "plus"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.1065,
+  "dur": 0.104166,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.210666,
+  "dur": 1.0532089,
+  "text": "25 centimètres"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.579166,
+  "dur": 0.185166,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.764333,
+  "dur": 0.636583,
+  "text": "connaissais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 24.745375,
+  "dur": 0.3125,
+  "text": "Dis-le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.057875,
+  "dur": 0.185166,
+  "text": "moi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.243041,
+  "dur": 0.081,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.324083,
+  "dur": 0.74075,
+  "text": "commentaire"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.377333,
+  "dur": 0.104166,
+  "text": "Et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.4815,
+  "dur": 0.138875,
+  "text": "si"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.620375,
+  "dur": 0.127291,
+  "text": "tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.747666,
+  "dur": 0.069458,
+  "text": "as"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.817125,
+  "dur": 0.42825,
+  "text": "aimé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.546291,
+  "dur": 0.138875,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.685166,
+  "dur": 0.335666,
+  "text": "like"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.032416,
+  "dur": 0.069416,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.101833,
+  "dur": 0.0462909,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.148166,
+  "dur": 0.439791,
+  "text": "abonnement"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.587958,
+  "dur": 0.11575,
+  "text": "pour"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.703708,
+  "dur": 0.057875,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.761583,
+  "dur": 0.324083,
+  "text": "prochaine"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.085666,
+  "dur": 0.42825,
+  "text": "info"
+ }
+]
