@@ -5,7 +5,8 @@
  },
  {
   "id": "espace_soleil2",
-  "query": "sun star solar flare space"
+  "query": "sun solar flare",
+  "match": "sun"
  },
  {
   "id": "espace_venus",
@@ -19,4 +20,4 @@
   "id": "espace_etoiles",
   "query": "stars galaxy space"
  }
-] 
+]

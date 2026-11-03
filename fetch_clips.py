@@ -25,15 +25,20 @@ def search(q, n=15):
     return json.loads(get(url)).get("hits", [])
 
 
-def pick(hits, used):
+def pick(hits, used, query=""):
     best = None
+    toks = [t for t in query.lower().split() if len(t) > 2]
     for h in hits:
         if h["id"] in used or h.get("duration", 0) < 4:
             continue
         v = h["videos"].get("large") or h["videos"].get("medium")
         if not v or not v.get("url") or v["height"] < 1000:
             continue
-        sc = h.get("likes", 0) * 2 + h.get("downloads", 0) / 50 + (v["height"] >= 1800) * 50
+        tags = h.get("tags", "").lower()
+        match = sum(t in tags for t in toks)
+        if toks and not match:
+            continue
+        sc = match * 500 + h.get("likes", 0) * 2 + h.get("downloads", 0) / 50 + (v["height"] >= 1800) * 50
         if not best or sc > best[0]:
             best = (sc, h, v)
     return best
@@ -50,7 +55,7 @@ def main():
             if dst.exists():
                 continue
             hits = search(item["query"])
-            b = pick(hits, used)
+            b = pick(hits, used, item.get("match", item["query"]))
             if not b:
                 print("AUCUN résultat :", item)
                 continue
