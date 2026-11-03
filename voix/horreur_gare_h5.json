@@ -1,0 +1,170 @@
+[
+ {
+  "type": "WordBoundary",
+  "start": 0.104166,
+  "dur": 0.15625,
+  "text": "Mais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.260416,
+  "dur": 0.14325,
+  "text": "si"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.403666,
+  "dur": 0.143208,
+  "text": "tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.546875,
+  "dur": 0.182291,
+  "text": "avais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.729166,
+  "dur": 0.338541,
+  "text": "ouvert"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.067708,
+  "dur": 0.104166,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.171875,
+  "dur": 0.338541,
+  "text": "porte"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.510416,
+  "dur": 0.638041,
+  "text": "grise"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.498458,
+  "dur": 0.247375,
+  "text": "Un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.745833,
+  "dur": 0.377625,
+  "text": "bureau"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.123458,
+  "dur": 0.78125,
+  "text": "abandonné"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.296875,
+  "dur": 0.130208,
+  "text": "Un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.427083,
+  "dur": 0.520833,
+  "text": "téléphone"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.947916,
+  "dur": 0.612,
+  "text": "sonne"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.950541,
+  "dur": 0.247375,
+  "text": "Sur"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.197916,
+  "dur": 0.130208,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.328125,
+  "dur": 0.442708,
+  "text": "table"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.096375,
+  "dur": 0.130208,
+  "text": "une"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.226583,
+  "dur": 0.442708,
+  "text": "clé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.019291,
+  "dur": 0.351583,
+  "text": "Un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.722416,
+  "dur": 0.351541,
+  "text": "prendre"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.073958,
+  "dur": 0.104166,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.178125,
+  "dur": 0.403666,
+  "text": "clé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.907291,
+  "dur": 0.052083,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.959375,
+  "dur": 0.729166,
+  "text": "partir"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.040125,
+  "dur": 0.442708,
+  "text": "Deux"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.873458,
+  "dur": 0.76825,
+  "text": "décrocher"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.992708,
+  "dur": 0.950541,
+  "text": "Choisis"
+ }
+]
