@@ -1,0 +1,2 @@
+#STYLE rate=-4% pitch=-5Hz
+Tu as ouvert la porte rouge. La pièce est vide. Mais derrière toi, la porte se referme. Et les murmures commencent. Tu les reconnais. C'est ta propre voix.

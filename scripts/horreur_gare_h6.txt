@@ -1,0 +1,2 @@
+#STYLE rate=-4% pitch=-5Hz
+Tu as décroché. Au bout du fil, ta propre voix murmure : ne te retourne pas. Tu te retournes.

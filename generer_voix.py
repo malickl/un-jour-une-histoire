@@ -20,12 +20,12 @@ def log(msg):
     print(f"[{datetime.now():%Y-%m-%d %H:%M:%S}] {msg}", flush=True)
 
 
-async def generer(texte, sortie):
+async def generer(texte, sortie, rate=VITESSE, pitch=PITCH):
     # ecrit dans un fichier temporaire puis renomme : evite de lire un MP3 incomplet
     # Sauvegarde aussi le timing des mots (.json) pour synchroniser les sous-titres
     tmp = sortie.with_suffix(".tmp")
     events = []
-    com = edge_tts.Communicate(texte, VOIX, rate=VITESSE, pitch=PITCH, boundary="WordBoundary")
+    com = edge_tts.Communicate(texte, VOIX, rate=rate, pitch=pitch, boundary="WordBoundary")
     with open(tmp, "wb") as f:
         async for chunk in com.stream():
             if chunk["type"] == "audio":
@@ -53,9 +53,19 @@ async def main():
         texte = txt.read_text(encoding="utf-8").strip()
         if not texte:
             continue
+        rate, pitch = VITESSE, PITCH
+        if texte.startswith("#STYLE"):  # ex. "#STYLE rate=-4% pitch=-4Hz" sur la 1re ligne
+            ligne, _, texte = texte.partition("\n")
+            for kv in ligne.split()[1:]:
+                k, _, v = kv.partition("=")
+                if k == "rate":
+                    rate = v
+                elif k == "pitch":
+                    pitch = v
+            texte = texte.strip()
         try:
             log(f"Generation : {txt.name}")
-            await generer(texte, mp3)
+            await generer(texte, mp3, rate, pitch)
             log(f"OK : {mp3.name}")
         except Exception as e:
             log(f"ECHEC {txt.name} : {e}")

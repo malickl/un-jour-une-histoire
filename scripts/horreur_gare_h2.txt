@@ -1,0 +1,2 @@
+#STYLE rate=-4% pitch=-5Hz
+Tu as choisi le tunnel. Les néons s'éteignent, un par un. Derrière toi, des pas. De plus en plus proches. Tu ne sauras jamais ce qui t'a attrapé.

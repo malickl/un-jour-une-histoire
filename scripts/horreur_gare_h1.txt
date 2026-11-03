@@ -1,0 +1,2 @@
+#STYLE rate=-4% pitch=-5Hz
+Trois choix. Un seul chemin te laisse en vie. Il est deux heures du matin. Tu descends du dernier train, et il repart sans toi. La gare est vide. Devant toi, deux chemins. Un : le tunnel éclairé. Deux : l'escalier dans le noir. Choisis.
