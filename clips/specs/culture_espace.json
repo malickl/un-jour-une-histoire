@@ -1,0 +1,12 @@
+{"name": "culture_espace", "scenes": [
+ {"start": 0.0, "end": 7.3, "clip": "espace_soleil", "texts": [
+   {"t": 0.08, "big": "8 MIN 20"}, {"t": 5.44, "big": "300 000 KM/S", "sub": "LA VITESSE DE LA LUMIÈRE"}]},
+ {"start": 7.3, "end": 15.2, "clip": "espace_soleil2", "texts": [
+   {"t": 8.92, "big": "99,86 %", "sub": "DE LA MASSE DU SYSTÈME SOLAIRE"}]},
+ {"start": 15.2, "end": 22.1, "clip": "espace_venus", "texts": [
+   {"t": 16.44, "big": "1 JOUR = 243 J", "sub": "SUR VÉNUS"}, {"t": 20.91, "big": "1 AN = 225 J"}]},
+ {"start": 22.1, "end": 26.0, "clip": "espace_lune", "texts": [
+   {"t": 24.53, "big": "3,8 CM / AN", "sub": "LA LUNE S'ÉLOIGNE"}]},
+ {"start": 26.0, "end": 33.0, "clip": "espace_etoiles", "texts": [
+   {"t": 26.17, "big": "TU CONNAISSAIS ?"}, {"t": 28.97, "big": "LIKE + ABONNE-TOI"}]}
+]}
