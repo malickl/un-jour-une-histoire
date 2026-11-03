@@ -1,0 +1,110 @@
+[
+ {
+  "type": "WordBoundary",
+  "start": 0.05,
+  "dur": 0.416666,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.466666,
+  "dur": 0.247416,
+  "text": "as"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.714083,
+  "dur": 0.820333,
+  "text": "décroché"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.927083,
+  "dur": 0.117208,
+  "text": "Au"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.044291,
+  "dur": 0.130208,
+  "text": "bout"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.1745,
+  "dur": 0.130208,
+  "text": "du"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.304708,
+  "dur": 0.481791,
+  "text": "fil"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.112,
+  "dur": 0.104166,
+  "text": "ta"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.216166,
+  "dur": 0.351541,
+  "text": "propre"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.567708,
+  "dur": 0.14325,
+  "text": "voix"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.710958,
+  "dur": 0.612,
+  "text": "murmure"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.6875,
+  "dur": 0.104166,
+  "text": "ne"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.791666,
+  "dur": 0.117208,
+  "text": "te"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.908875,
+  "dur": 0.403625,
+  "text": "retourne"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.3125,
+  "dur": 0.260416,
+  "text": "pas."
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.950541,
+  "dur": 0.117166,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.067708,
+  "dur": 0.169291,
+  "text": "te"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.237,
+  "dur": 0.9245,
+  "text": "retournes"
+ }
+]

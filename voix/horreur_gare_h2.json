@@ -1,0 +1,170 @@
+[
+ {
+  "type": "WordBoundary",
+  "start": 0.104166,
+  "dur": 0.130208,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.234375,
+  "dur": 0.078125,
+  "text": "as"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.3125,
+  "dur": 0.390625,
+  "text": "choisi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.703125,
+  "dur": 0.117208,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.820333,
+  "dur": 0.677083,
+  "text": "tunnel"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.901041,
+  "dur": 0.169291,
+  "text": "Les"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.070333,
+  "dur": 0.260416,
+  "text": "néons"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.33075,
+  "dur": 0.638041,
+  "text": "s'éteignent"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.255208,
+  "dur": 0.078125,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.333333,
+  "dur": 0.247416,
+  "text": "par"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.58075,
+  "dur": 0.260416,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.231791,
+  "dur": 0.416666,
+  "text": "Derrière"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.648458,
+  "dur": 0.377625,
+  "text": "toi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.351583,
+  "dur": 0.117166,
+  "text": "des"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.46875,
+  "dur": 0.325541,
+  "text": "pas."
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.14375,
+  "dur": 0.260416,
+  "text": "De"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.404166,
+  "dur": 0.182291,
+  "text": "plus"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.586458,
+  "dur": 0.169291,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.75575,
+  "dur": 0.143208,
+  "text": "plus"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.898958,
+  "dur": 0.638041,
+  "text": "proches"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.942708,
+  "dur": 0.104166,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.046875,
+  "dur": 0.117208,
+  "text": "ne"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.164083,
+  "dur": 0.286458,
+  "text": "sauras"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.450541,
+  "dur": 0.455708,
+  "text": "jamais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.90625,
+  "dur": 0.15625,
+  "text": "ce"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.0625,
+  "dur": 0.130208,
+  "text": "qui"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.192708,
+  "dur": 0.130208,
+  "text": "t'a"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.322916,
+  "dur": 0.651041,
+  "text": "attrapé"
+ }
+]

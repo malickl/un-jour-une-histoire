@@ -1,0 +1,236 @@
+[
+ {
+  "type": "WordBoundary",
+  "start": 0.104166,
+  "dur": 0.182291,
+  "text": "Mais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.286458,
+  "dur": 0.169291,
+  "text": "si"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.45575,
+  "dur": 0.143208,
+  "text": "tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.598958,
+  "dur": 0.195333,
+  "text": "avais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.794291,
+  "dur": 0.208333,
+  "text": "pris"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.002625,
+  "dur": 0.117166,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.119791,
+  "dur": 0.45575,
+  "text": "clé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.925541,
+  "dur": 0.221333,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.146875,
+  "dur": 0.377625,
+  "text": "sors"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.5245,
+  "dur": 0.182291,
+  "text": "par"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.706791,
+  "dur": 0.104166,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.810958,
+  "dur": 0.3255,
+  "text": "porte"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.136458,
+  "dur": 0.130208,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.266666,
+  "dur": 0.76825,
+  "text": "service"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.427083,
+  "dur": 0.377625,
+  "text": "L'aube"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.804708,
+  "dur": 0.182291,
+  "text": "se"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.987,
+  "dur": 0.559916,
+  "text": "lève"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.896375,
+  "dur": 0.403625,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.3,
+  "dur": 0.247416,
+  "text": "as"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.547416,
+  "dur": 0.716166,
+  "text": "survécu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.615625,
+  "dur": 0.364583,
+  "text": "Cette"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.980208,
+  "dur": 0.46875,
+  "text": "fois"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.854166,
+  "dur": 0.520833,
+  "text": "Alors"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.700541,
+  "dur": 0.15625,
+  "text": "tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.856791,
+  "dur": 0.16925,
+  "text": "aurais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.026041,
+  "dur": 0.169291,
+  "text": "fait"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.195333,
+  "dur": 0.091125,
+  "text": "les"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.286458,
+  "dur": 0.182291,
+  "text": "mêmes"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.46875,
+  "dur": 0.442708,
+  "text": "choix"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.302083,
+  "dur": 0.338541,
+  "text": "Dis-le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.640625,
+  "dur": 0.169291,
+  "text": "moi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.809916,
+  "dur": 0.078125,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.888041,
+  "dur": 0.742208,
+  "text": "commentaire"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.020833,
+  "dur": 0.052083,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.072916,
+  "dur": 0.507833,
+  "text": "abonne-toi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.58075,
+  "dur": 0.15625,
+  "text": "pour"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.737,
+  "dur": 0.078125,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.815125,
+  "dur": 0.351541,
+  "text": "prochaine"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.166666,
+  "dur": 0.664083,
+  "text": "histoire"
+ }
+]

@@ -1,0 +1,260 @@
+[
+ {
+  "type": "WordBoundary",
+  "start": 0.052083,
+  "dur": 0.234375,
+  "text": "Trois"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.286458,
+  "dur": 0.481791,
+  "text": "choix"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.158875,
+  "dur": 0.15625,
+  "text": "Un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.315125,
+  "dur": 0.234375,
+  "text": "seul"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.5495,
+  "dur": 0.429666,
+  "text": "chemin"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.979166,
+  "dur": 0.130208,
+  "text": "te"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.109375,
+  "dur": 0.234375,
+  "text": "laisse"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.34375,
+  "dur": 0.091166,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.434916,
+  "dur": 0.377625,
+  "text": "vie"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.203125,
+  "dur": 0.182291,
+  "text": "Il"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.385416,
+  "dur": 0.065125,
+  "text": "est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.450541,
+  "dur": 0.182291,
+  "text": "deux"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.632833,
+  "dur": 0.234375,
+  "text": "heures"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.867208,
+  "dur": 0.104166,
+  "text": "du"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.971375,
+  "dur": 0.546875,
+  "text": "matin"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.921875,
+  "dur": 0.117208,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.039083,
+  "dur": 0.364583,
+  "text": "descends"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.403666,
+  "dur": 0.130208,
+  "text": "du"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.533875,
+  "dur": 0.3255,
+  "text": "dernier"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.859375,
+  "dur": 0.403666,
+  "text": "train"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.770833,
+  "dur": 0.065125,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.835958,
+  "dur": 0.104166,
+  "text": "il"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.940125,
+  "dur": 0.351541,
+  "text": "repart"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.291666,
+  "dur": 0.169291,
+  "text": "sans"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.460958,
+  "dur": 0.416666,
+  "text": "toi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.28125,
+  "dur": 0.169291,
+  "text": "La"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.450541,
+  "dur": 0.3125,
+  "text": "gare"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.763041,
+  "dur": 0.052083,
+  "text": "est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.815125,
+  "dur": 0.559916,
+  "text": "vide"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.725,
+  "dur": 0.403666,
+  "text": "Devant"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.128666,
+  "dur": 0.364583,
+  "text": "toi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.831791,
+  "dur": 0.130208,
+  "text": "deux"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.962,
+  "dur": 0.520833,
+  "text": "chemins"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.875,
+  "dur": 0.273458,
+  "text": "Un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.65625,
+  "dur": 0.117208,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.773458,
+  "dur": 0.351541,
+  "text": "tunnel"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.125,
+  "dur": 0.625,
+  "text": "éclairé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.140625,
+  "dur": 0.364583,
+  "text": "Deux"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.882833,
+  "dur": 0.546875,
+  "text": "l'escalier"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.429708,
+  "dur": 0.117166,
+  "text": "dans"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.546875,
+  "dur": 0.091166,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.638041,
+  "dur": 0.585958,
+  "text": "noir"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.573458,
+  "dur": 0.950541,
+  "text": "Choisis"
+ }
+]

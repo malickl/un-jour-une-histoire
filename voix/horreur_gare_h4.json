@@ -1,0 +1,170 @@
+[
+ {
+  "type": "WordBoundary",
+  "start": 0.091166,
+  "dur": 0.143208,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.234375,
+  "dur": 0.078125,
+  "text": "as"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.3125,
+  "dur": 0.403666,
+  "text": "ouvert"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.716166,
+  "dur": 0.104166,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.820333,
+  "dur": 0.273416,
+  "text": "porte"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.09375,
+  "dur": 0.572916,
+  "text": "rouge"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.070333,
+  "dur": 0.15625,
+  "text": "La"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.226583,
+  "dur": 0.351541,
+  "text": "pièce"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.578125,
+  "dur": 0.052083,
+  "text": "est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.630208,
+  "dur": 0.572916,
+  "text": "vide"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.606791,
+  "dur": 0.16925,
+  "text": "Mais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.776041,
+  "dur": 0.364583,
+  "text": "derrière"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.140625,
+  "dur": 0.351583,
+  "text": "toi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.869791,
+  "dur": 0.091166,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.960958,
+  "dur": 0.3255,
+  "text": "porte"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.286458,
+  "dur": 0.117208,
+  "text": "se"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.403666,
+  "dur": 0.729166,
+  "text": "referme"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.536458,
+  "dur": 0.078125,
+  "text": "Et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.614583,
+  "dur": 0.117208,
+  "text": "les"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.731791,
+  "dur": 0.46875,
+  "text": "murmures"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.200541,
+  "dur": 0.755208,
+  "text": "commencent"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.346375,
+  "dur": 0.143208,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.489583,
+  "dur": 0.130208,
+  "text": "les"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.619791,
+  "dur": 0.703125,
+  "text": "reconnais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.713541,
+  "dur": 0.195333,
+  "text": "C'est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.908875,
+  "dur": 0.130208,
+  "text": "ta"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.039083,
+  "dur": 0.377583,
+  "text": "propre"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.416666,
+  "dur": 0.403666,
+  "text": "voix"
+ }
+]
