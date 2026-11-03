@@ -1,7 +1,22 @@
 [
- {"id": "espace_soleil", "query": "sun solar"},
- {"id": "espace_soleil2", "query": "sun surface fire"},
- {"id": "espace_venus", "query": "planet venus"},
- {"id": "espace_lune", "query": "moon earth space"},
- {"id": "espace_etoiles", "query": "stars galaxy space"}
-]
+ {
+  "id": "espace_soleil",
+  "query": "sun solar"
+ },
+ {
+  "id": "espace_soleil2",
+  "query": "sun surface fire"
+ },
+ {
+  "id": "espace_venus",
+  "query": "planet venus"
+ },
+ {
+  "id": "espace_lune",
+  "query": "moon earth space"
+ },
+ {
+  "id": "espace_etoiles",
+  "query": "stars galaxy space"
+ }
+] 
