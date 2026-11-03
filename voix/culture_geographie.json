@@ -1,0 +1,620 @@
+[
+ {
+  "type": "WordBoundary",
+  "start": 0.05,
+  "dur": 0.42825,
+  "text": "12"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.47825,
+  "dur": 0.451375,
+  "text": "fuseaux"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 0.929625,
+  "dur": 0.706,
+  "text": "horaires"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.979166,
+  "dur": 0.173625,
+  "text": "C'est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.152791,
+  "dur": 0.092583,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.245375,
+  "dur": 0.289333,
+  "text": "record"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.534708,
+  "dur": 0.104166,
+  "text": "du"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.638875,
+  "dur": 0.335666,
+  "text": "monde"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.32175,
+  "dur": 0.034708,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.3565,
+  "dur": 0.092583,
+  "text": "il"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.449083,
+  "dur": 0.370375,
+  "text": "appartient"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.819458,
+  "dur": 0.034708,
+  "text": "à"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.854166,
+  "dur": 0.104166,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.958333,
+  "dur": 0.544,
+  "text": "France"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.80325,
+  "dur": 0.254625,
+  "text": "grâce"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.057875,
+  "dur": 0.0462909,
+  "text": "à"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.104166,
+  "dur": 0.11575,
+  "text": "ses"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.219916,
+  "dur": 0.405083,
+  "text": "territoires"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.625,
+  "dur": 0.659708,
+  "text": "d'outre-mer"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.6435,
+  "dur": 0.150458,
+  "text": "Le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.794,
+  "dur": 0.138875,
+  "text": "plus"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.932875,
+  "dur": 0.254625,
+  "text": "petit"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.1875,
+  "dur": 0.208333,
+  "text": "pays"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.395833,
+  "dur": 0.104166,
+  "text": "du"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.5,
+  "dur": 0.370375,
+  "text": "monde"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.125,
+  "dur": 0.081,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.206,
+  "dur": 0.544,
+  "text": "Vatican"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.108791,
+  "dur": 0.266208,
+  "text": "mesure"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.375,
+  "dur": 0.19675,
+  "text": "moins"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.57175,
+  "dur": 0.150458,
+  "text": "d'un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.722208,
+  "dur": 0.648166,
+  "text": "demi-kilomètre"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.370375,
+  "dur": 0.439833,
+  "text": "carré"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.157416,
+  "dur": 0.092583,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.25,
+  "dur": 0.081,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.331,
+  "dur": 0.486125,
+  "text": "traverses"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.817125,
+  "dur": 0.081,
+  "text": "à"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.898166,
+  "dur": 0.370333,
+  "text": "pied"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.2685,
+  "dur": 0.127333,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.395833,
+  "dur": 0.289333,
+  "text": "quelques"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 12.685166,
+  "dur": 0.567125,
+  "text": "minutes"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.611125,
+  "dur": 0.069416,
+  "text": "À"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.680541,
+  "dur": 0.613416,
+  "text": "l'inverse"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.583333,
+  "dur": 0.092583,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.675916,
+  "dur": 0.370375,
+  "text": "Canada"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.046291,
+  "dur": 0.347208,
+  "text": "possède"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.3935,
+  "dur": 0.092583,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.486125,
+  "dur": 0.150458,
+  "text": "plus"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.636583,
+  "dur": 0.127291,
+  "text": "long"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.763875,
+  "dur": 0.381958,
+  "text": "littoral"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.145833,
+  "dur": 0.0462909,
+  "text": "au"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.192125,
+  "dur": 0.3935,
+  "text": "monde"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.898166,
+  "dur": 0.162,
+  "text": "plus"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.060166,
+  "dur": 0.11575,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.175916,
+  "dur": 1.0879589,
+  "text": "200 000 kilomètres"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.599541,
+  "dur": 0.185166,
+  "text": "C'est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.784708,
+  "dur": 0.185166,
+  "text": "plus"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.969916,
+  "dur": 0.11575,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.085666,
+  "dur": 0.4282079,
+  "text": "5 fois"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.513875,
+  "dur": 0.092583,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.6065,
+  "dur": 0.173583,
+  "text": "tour"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.780083,
+  "dur": 0.069458,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.849541,
+  "dur": 0.092583,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.942125,
+  "dur": 0.486125,
+  "text": "Terre"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.775458,
+  "dur": 0.081,
+  "text": "Et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.8565,
+  "dur": 0.243041,
+  "text": "depuis"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 21.099541,
+  "dur": 0.50925,
+  "text": "2020"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 21.956,
+  "dur": 0.081,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.037041,
+  "dur": 0.11575,
+  "text": "mont"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.152791,
+  "dur": 0.474541,
+  "text": "Everest"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.627333,
+  "dur": 0.3125,
+  "text": "mesure"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.939833,
+  "dur": 0.613416,
+  "text": "officiellement"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.564833,
+  "dur": 1.712916,
+  "text": "8 848,86 "
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.277791,
+  "dur": 0.335666,
+  "text": "mètres"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.925916,
+  "dur": 0.19675,
+  "text": "après"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.122666,
+  "dur": 0.081,
+  "text": "une"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.203708,
+  "dur": 0.277791,
+  "text": "mesure"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.4815,
+  "dur": 0.3125,
+  "text": "commune"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.794,
+  "dur": 0.069416,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.863416,
+  "dur": 0.092583,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.956,
+  "dur": 0.289333,
+  "text": "Chine"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.245375,
+  "dur": 0.034708,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.280083,
+  "dur": 0.092583,
+  "text": "du"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.372666,
+  "dur": 0.544,
+  "text": "Népal"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.231958,
+  "dur": 0.185166,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.417125,
+  "dur": 0.636583,
+  "text": "connaissais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.398166,
+  "dur": 0.3125,
+  "text": "Dis-le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.710666,
+  "dur": 0.185166,
+  "text": "moi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.895833,
+  "dur": 0.081,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.976833,
+  "dur": 0.74075,
+  "text": "commentaire"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 31.030083,
+  "dur": 0.104166,
+  "text": "Et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 31.13425,
+  "dur": 0.138875,
+  "text": "si"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 31.273166,
+  "dur": 0.127291,
+  "text": "tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 31.400458,
+  "dur": 0.069458,
+  "text": "as"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 31.469916,
+  "dur": 0.42825,
+  "text": "aimé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.199083,
+  "dur": 0.138875,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.337958,
+  "dur": 0.335666,
+  "text": "like"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.685166,
+  "dur": 0.069458,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.754625,
+  "dur": 0.0462909,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.800916,
+  "dur": 0.439833,
+  "text": "abonnement"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.24075,
+  "dur": 0.11575,
+  "text": "pour"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.3565,
+  "dur": 0.057833,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.414333,
+  "dur": 0.324083,
+  "text": "prochaine"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.738416,
+  "dur": 0.42825,
+  "text": "info"
+ }
+]
