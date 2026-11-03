@@ -44,12 +44,15 @@ def zoom(im, z):
     return im.transform((W, H), Image.EXTENT, box, Image.BICUBIC)
 
 
-def draw_text(ov, t, big, sub, T):
+def draw_text(ov, t, big, sub, T, t_end=1e9):
     k = np.clip((T - t) / 0.2, 0, 1)
-    if k <= 0:
+    if k <= 0 or T >= t_end:
         return
+    k = k * np.clip((t_end - T) / 0.15, 0, 1)
     s = 1.0 + 0.35 * (1 - k) ** 2
     size = int(230 * s) if len(big) <= 9 else int(170 * s)
+    while font(size).getlength(big) > 960 and size > 60:
+        size -= 8
     d = ImageDraw.Draw(ov)
     a = int(255 * k)
     d.text((W / 2, 640), big, font=font(size), fill=(255, 255, 255, a), anchor="mm", stroke_width=10, stroke_fill=(0, 0, 0, a))
@@ -105,8 +108,10 @@ def main():
             z = 1.0 + 0.07 * lt / max(dur, 1) + 0.06 * math.exp(-lt / 0.1)
             im = zoom(im, z)
             ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-            for tx in sc.get("texts", []):
-                draw_text(ov, tx["t"], tx["big"], tx.get("sub", ""), T)
+            tl = sc.get("texts", [])
+            for j, tx in enumerate(tl):
+                te = tl[j + 1]["t"] if j + 1 < len(tl) else 1e9
+                draw_text(ov, tx["t"], tx["big"], tx.get("sub", ""), T, te)
             draw_subs(ov, T)
             im = im.convert("RGBA")
             im.alpha_composite(ov)
