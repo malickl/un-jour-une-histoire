@@ -49,6 +49,8 @@ def main():
         sys.exit("PIXABAY_KEY manquante")
     OUT.mkdir(parents=True, exist_ok=True)
     used = set()
+    for j in OUT.glob("*.json"):
+        used.add(json.loads(j.read_text(encoding="utf-8")).get("pixabay_id"))
     for rq in sorted(REQ.glob("*.json")):
         for item in json.loads(rq.read_text(encoding="utf-8")):
             dst = OUT / f"{item['id']}.mp4"
