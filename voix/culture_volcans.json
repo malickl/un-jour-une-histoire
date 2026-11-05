@@ -1,0 +1,686 @@
+[
+ {
+  "type": "WordBoundary",
+  "start": 0.081,
+  "dur": 0.925958,
+  "text": "10 000 mètres"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.342583,
+  "dur": 0.162041,
+  "text": "C'est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.504625,
+  "dur": 0.092583,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.597208,
+  "dur": 0.19675,
+  "text": "vraie"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 1.794,
+  "dur": 0.335625,
+  "text": "hauteur"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.129625,
+  "dur": 0.104166,
+  "text": "du"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.233791,
+  "dur": 0.254625,
+  "text": "Mauna"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 2.488416,
+  "dur": 0.416666,
+  "text": "Kea"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.182875,
+  "dur": 0.11575,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.298625,
+  "dur": 0.289333,
+  "text": "volcan"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 3.587958,
+  "dur": 0.497666,
+  "text": "d'Hawaï"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.409708,
+  "dur": 0.335666,
+  "text": "mesurée"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.745375,
+  "dur": 0.219916,
+  "text": "depuis"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 4.965291,
+  "dur": 0.092583,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.057875,
+  "dur": 0.162041,
+  "text": "fond"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.219916,
+  "dur": 0.081,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 5.300916,
+  "dur": 0.497666,
+  "text": "l'océan"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.114833,
+  "dur": 0.347208,
+  "text": "Bien"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.462041,
+  "dur": 0.266208,
+  "text": "plus"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.72825,
+  "dur": 0.104166,
+  "text": "que"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 6.832416,
+  "dur": 0.729166,
+  "text": "l'Everest"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 7.905083,
+  "dur": 0.11575,
+  "text": "En"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 8.020833,
+  "dur": 1.076375,
+  "text": "1883"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.456,
+  "dur": 0.462958,
+  "text": "l'explosion"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 9.919,
+  "dur": 0.092583,
+  "text": "du"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.011583,
+  "dur": 0.659708,
+  "text": "Krakatoa"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.682875,
+  "dur": 0.11575,
+  "text": "a"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.798625,
+  "dur": 0.19675,
+  "text": "été"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 10.995375,
+  "dur": 0.462958,
+  "text": "entendue"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.469916,
+  "dur": 0.081,
+  "text": "à"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.550916,
+  "dur": 0.162041,
+  "text": "près"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.712958,
+  "dur": 0.104166,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 11.817125,
+  "dur": 0.9606659,
+  "text": "5 000 kilomètres"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.125,
+  "dur": 0.173625,
+  "text": "C'est"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.298625,
+  "dur": 0.104166,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.402791,
+  "dur": 0.254625,
+  "text": "bruit"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.657416,
+  "dur": 0.104166,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.761583,
+  "dur": 0.150458,
+  "text": "plus"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 13.912041,
+  "dur": 0.266208,
+  "text": "fort"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.17825,
+  "dur": 0.081,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.25925,
+  "dur": 0.347208,
+  "text": "l'histoire"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 14.6065,
+  "dur": 0.42825,
+  "text": "connue"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.381958,
+  "dur": 0.104166,
+  "text": "En"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 15.486125,
+  "dur": 0.856458,
+  "text": "1815"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 16.620375,
+  "dur": 0.381958,
+  "text": "l'éruption"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.002333,
+  "dur": 0.104166,
+  "text": "du"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.1065,
+  "dur": 0.520833,
+  "text": "Tambora"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.847208,
+  "dur": 0.069458,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 17.916666,
+  "dur": 0.659708,
+  "text": "Indonésie"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.877333,
+  "dur": 0.092583,
+  "text": "a"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 18.969916,
+  "dur": 0.127291,
+  "text": "fait"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.097208,
+  "dur": 0.104166,
+  "text": "des"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.201375,
+  "dur": 0.347208,
+  "text": "dizaines"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.548625,
+  "dur": 0.081,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.629625,
+  "dur": 0.2315,
+  "text": "milliers"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.861125,
+  "dur": 0.104166,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 19.965291,
+  "dur": 0.42825,
+  "text": "morts"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.74075,
+  "dur": 0.069416,
+  "text": "Et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 20.810166,
+  "dur": 0.219916,
+  "text": "l'année"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 21.030083,
+  "dur": 0.532416,
+  "text": "suivante"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 21.75925,
+  "dur": 0.8217909,
+  "text": "1816"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.881958,
+  "dur": 0.034708,
+  "text": "on"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 22.916666,
+  "dur": 0.104166,
+  "text": "l'a"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.020833,
+  "dur": 0.243041,
+  "text": "appelée"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.263875,
+  "dur": 0.2315,
+  "text": "l'année"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.495375,
+  "dur": 0.138875,
+  "text": "sans"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 23.63425,
+  "dur": 0.381958,
+  "text": "été"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 24.386583,
+  "dur": 0.19675,
+  "text": "neige"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 24.583333,
+  "dur": 0.069458,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 24.652791,
+  "dur": 0.335666,
+  "text": "juin"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.300916,
+  "dur": 0.358791,
+  "text": "récoltes"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 25.659708,
+  "dur": 0.486125,
+  "text": "détruites"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.400458,
+  "dur": 0.300916,
+  "text": "famine"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.701375,
+  "dur": 0.0462909,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 26.747666,
+  "dur": 0.486125,
+  "text": "Europe"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 27.592583,
+  "dur": 0.416666,
+  "text": "Enfin"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.32175,
+  "dur": 0.11575,
+  "text": "sous"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.4375,
+  "dur": 0.104166,
+  "text": "le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.541666,
+  "dur": 0.289333,
+  "text": "parc"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.831,
+  "dur": 0.092583,
+  "text": "de"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 28.923625,
+  "dur": 0.59025,
+  "text": "Yellowstone"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.513875,
+  "dur": 0.243041,
+  "text": "dort"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.756958,
+  "dur": 0.069416,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 29.826375,
+  "dur": 0.763875,
+  "text": "supervolcan"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 30.914333,
+  "dur": 0.185166,
+  "text": "Sa"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 31.099541,
+  "dur": 0.347208,
+  "text": "dernière"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 31.44675,
+  "dur": 0.219916,
+  "text": "grande"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 31.666666,
+  "dur": 0.50925,
+  "text": "éruption"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.1875,
+  "dur": 0.3935,
+  "text": "date"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.592583,
+  "dur": 0.150458,
+  "text": "d'il"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.743041,
+  "dur": 0.069458,
+  "text": "y"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.8125,
+  "dur": 0.034708,
+  "text": "a"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 32.847208,
+  "dur": 0.416666,
+  "text": "environ"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 33.263875,
+  "dur": 0.983791,
+  "text": "640 000 ans"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 34.562958,
+  "dur": 0.185166,
+  "text": "Tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 34.748166,
+  "dur": 0.636583,
+  "text": "connaissais"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 35.729166,
+  "dur": 0.3125,
+  "text": "Dis-le"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 36.041666,
+  "dur": 0.185166,
+  "text": "moi"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 36.226833,
+  "dur": 0.081,
+  "text": "en"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 36.307875,
+  "dur": 0.74075,
+  "text": "commentaire"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 37.361125,
+  "dur": 0.104166,
+  "text": "Et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 37.465291,
+  "dur": 0.138875,
+  "text": "si"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 37.604166,
+  "dur": 0.127333,
+  "text": "tu"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 37.7315,
+  "dur": 0.069416,
+  "text": "as"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 37.800916,
+  "dur": 0.42825,
+  "text": "aimé"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 38.530083,
+  "dur": 0.138875,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 38.669,
+  "dur": 0.335666,
+  "text": "like"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 39.016208,
+  "dur": 0.069458,
+  "text": "et"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 39.085666,
+  "dur": 0.0462909,
+  "text": "un"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 39.131958,
+  "dur": 0.439791,
+  "text": "abonnement"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 39.57175,
+  "dur": 0.11575,
+  "text": "pour"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 39.6875,
+  "dur": 0.057875,
+  "text": "la"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 39.745375,
+  "dur": 0.324083,
+  "text": "prochaine"
+ },
+ {
+  "type": "WordBoundary",
+  "start": 40.069458,
+  "dur": 0.42825,
+  "text": "info"
+ }
+]
